@@ -1,0 +1,69 @@
+{
+    "pandas": {
+      "title": "Super-Hero Games",
+      "description": "PS2 games revolving around superhero protagonists",
+      "photos": [
+        {
+          "title": "Spider-Man 2 (2004)",
+          "info": "Spider-Man 2 is a 2004 action-adventure video game based loosely on the Spider-Man 2 film. They are follow-ups of the game Spider-Man: The Movie, and the series is followed by Spider-Man 3. Published by Activision, each of these console games have different developers, with Treyarch being the most common game. The game was released on June 28, 2004 for the GameCube, PS2, and Xbox. This version was developed by Treyarch; The other versions were released on other consoles, and developed by other developers.  The Treyarch version of the game allow the player to freely roam around Manhattan, Roosevelt, Ellis, and Liberty Islands. The home console versions were also innovative in that physics-based algorithms simulated Spider-Man's web swinging in three dimensions, creating a new game mechanic unlike the traditional jumping or flying of previous Spider-Man games. The PSP version of Spider-Man 2 was compared to playing the Spider-Man plot. While street thugs only have handguns, machine guns, crowbars and their fists to protect them, the super-villains and their minions have their various unique powers and weapons that they use to either steal, cause terror or defeat Spider-Man. At the end of the game, it becomes possible to unlock a warehouse in which the player can again fight thugs and villains such as Shocker, Rhino, Mysterio, Doctor Octopus, and an additional boss, Calypso, who is not found elsewhere in the game. The player has the ability to choose either to go on with the storyline or swing around the city. The player can explore Manhattan, Roosevelt Island, Ellis Island, Liberty Island, and a mysterious label on the map over the water claiming 'Governors Island' (which was omitted from the final version of the game due to time constraints) with many sidequests for the player to complete. The player can do random tasks to earn hero points, which must be accumulated to continue with the plot and are spent on upgrading Spidey's skills.",
+          "imageURL": "https://www.lukiegames.com/assets/images/PS2/ps2_spiderman_2_p_lwz1vc.jpg",
+          "sourceURL": "https://www.lukiegames.com/Spiderman-2-Sony-Playstation-2-PS2-Game.html"
+        },
+        {
+          "title": "Superman Returns (2006)",
+          "info": "Superman Returns is a video game based on the movie of the same name, It was developed by EA Tiburon and published by Electronic Arts in conjunction with Warner Bros. Interactive Entertainment and DC Comics. It features a story arc from the movie, which was released on November 22, 2006, and more than 60 years of comic book content. EA Tiburon, known for its Madden NFL game series, has claimed that the game combines strong creative vision and compelling new technology to deliver a powerful and emotional gaming experience to their consumers, and they will experience a real sense of flying while mastering Superman's superhero powers to save Metropolis. In the game, Superman combats Bizarro, who does not appear in the movie, as well as other classic villains (including Metallo, Mongul, and Riot) as well as being able to play as Bizarro for a short period of time in one of the many minigames inserted into the game. The game was produced for the Xbox 360 as well as the PlayStation 2 and Nintendo DS. A port for the PlayStation Portable was planned but cancelled due to it not having enough power to support the game. Electronic Arts and Warner Bros. Interactive Entertainment secured an all-star cast for the voices in Superman Returns: The Videogame. The game features the voice and likeness of Brandon Routh (Superman/Clark Kent) as well as the voices of Kevin Spacey (Lex Luthor), Kate Bosworth (Lois Lane), Parker Posey (Kitty Kowalski) and Sam Huntington (Jimmy Olsen), all reprising their roles from the Warner Bros. Pictures film directed by Bryan Singer. The Nintendo DS version also features games based on the film, but they are fundamentally different from the console title. The games were delayed from their original release date (set to coincide with the theatrical release of the film) due to design complications and issues with polish on the console game. The handheld games were delayed in order to preserve a simultaneous release with non-handheld SKUs. The games were ultimately released on November 22, 2006 in the United States and November 30 in Australia, to coincide with the DVD release of Superman Returns.",
+          "imageURL":
+            "https://images-na.ssl-images-amazon.com/images/I/51GS9S1ZHGL._AC_SX215_.jpg",
+          "sourceURL": "https://www.amazon.com/Superman-Returns-PlayStation-2/dp/B000F1YI3E"
+        },
+        {
+          "title": "Batman Begins (2005)",
+          "info": "Batman Begins is a 2005 video game. It was released June 14, 2005, a day before the release of Batman Begins. It was developed by Eurocom and published by Electronic Arts in conjunction with Warner Bros. Interactive Entertainment and DC Comics. It was released on Game Boy Advance, GameCube, PlayStation 2 and Xbox. The film's original cast provided a voice-over reprisal in the game, with the exception of Gary Oldman, who portrays James Gordon, replaced by Gavin Hammon. A PlayStation Portable version of the game was planned, but subsequently canceled. A sequel, Batman: The Dark Knight, was developed for the PlayStation 3 and Xbox 360 but later canceled.",
+          "imageURL":
+            "http://www.mobygames.com/images/covers/l/168467-batman-begins-playstation-2-front-cover.png",
+          "sourceURL": "http://www.mobygames.com/game/ps2/batman-begins/cover-art/gameCoverId,168467/"
+        },
+        {
+          "title": "Viewtiful Joe (2003)",
+          "info": "Viewtiful Joe is a side scrolling beat 'em up video game developed by Team Viewtiful for the GameCube. It was originally released in 2003 as a part of the Capcom Five under director Hideki Kamiya and producer Atsushi Inaba. The game was later ported to the PlayStation 2 by the same design team under the name Clover Studio, subtitled Aratanaru Kibō (新たなる希望, lit. 'A New Hope') in Japan. The game's story concerns Joe, an avid movie-goer whose girlfriend Silvia is kidnapped during a film starring Joe's favorite superhero, Captain Blue. Joe is shortly thereafter thrust into Movieland, where Silvia is taken by the villainous group known as Jadow. After accepting a special V-Watch from Captain Blue, Joe transforms into the tokusatsu-style persona 'Viewtiful Joe' and sets out to rescue her. The gameplay of Viewtiful Joe features traditional 2D platform side-scrolling intermixed with 3D cel-shaded graphics. Abilities known as 'VFX Powers' grant the player special actions for combat and puzzle-solving, such as slowing down or speeding up time. Viewtiful Joe was critically acclaimed for its unique visual style and gameplay, earning itself a number of awards from various media publications. A minor commercial success, the game spawned a few sequels with releases seen on other consoles such as the PlayStation Portable (PSP) and Nintendo DS. An anime adaption of the game was also produced.",
+          "imageURL":
+            "https://images-na.ssl-images-amazon.com/images/I/61T8W820DEL._AC_SX215_.jpg",
+          "sourceURL": "https://www.amazon.com/Viewtiful-Joe-PlayStation-2/dp/B0002B90OO"
+        }
+      ]
+    },
+    "miniatures": {
+      "title": "James Bond Games",
+      "description": "PS2 games relating to the James Bond 007 franchise.",
+      "photos": [
+        {
+          "title": "Nightfire (2002)",
+          "info":"James Bond 007: NightFire is a first-person shooter video game featuring the character of the British secret agent James Bond and a sequel to Agent Under Fire, published by Electronic Arts in 2002. NightFire was developed by Eurocom for the GameCube, PlayStation 2, and Xbox video game consoles, while Gearbox Software developed the game for Microsoft Windows using the GoldSrc engine. Aspyr later re-released the game for the macOS. The computer versions are substantially different from the console versions, featuring different missions and a modified story line. In 2003, Electronic Arts released NightFire for the Game Boy Advance (GBA), developed by JV Games and also featuring different missions and a modified story line from the console and computer versions. The game marked Pierce Brosnan's fourth appearance as James Bond before the release of his fourth and final Bond film Die Another Day. His likeness was featured in the game, but not his voice, which was provided by Maxwell Caulfield.",
+          "imageURL":
+            "https://www.gamecash.fr/thumbnail-600/007-nightfire-ps2-e10263.jpg",
+          "sourceURL": "https://www.gamecash.fr/james-bond-007-nightfire-e39960.html"
+        },
+        {
+          "title": "Agent Under Fire (2001)",
+          "info": "James Bond 007: Agent Under Fire is a first-person shooter video game based on the James Bond franchise. Developed and published by Electronic Arts, it was released for PlayStation 2, GameCube and Xbox game consoles. It is the fourth Bond game which is not based on a film or book in the James Bond series, following James Bond 007: The Duel, James Bond 007 and EA's own 007 Racing. The game's story arc continues in the following sequel, Nightfire, released a year later. Unlike previous Bond games which featured the likeness of then current Bond actor Pierce Brosnan, Agent Under Fire used the voice of Adam Blackwood and the likeness of English actor Andrew Bicknell for Bond.",
+          "imageURL":
+            "https://http2.mlstatic.com/ps2-007-agent-under-fire-patch-D_NQ_NP_952303-MLB26276467684_112017-F.jpg",
+          "sourceURL": "https://produto.mercadolivre.com.br/MLB-931125716-ps2-007-agent-under-fire-patch-_JM"
+        },
+        {
+          "title": "Everything or Nothing (2003)",
+          "info": "James Bond 007: Everything or Nothing is a third-person shooter video game, in which the player controls James Bond. Bond is modeled after and voiced by the former James Bond actor Pierce Brosnan. Developed by EA Redwood Shores and published by Electronic Arts, it was released for the GameCube, PlayStation 2, and Xbox consoles. The Game Boy Advance version was developed by Griptonite Games and when linked to the GameCube version via the Nintendo GameCube–Game Boy Advance link cable allowed unique premium content. The game achieved Platinum Hits status on the Xbox. Written by Bruce Feirstein, Danny Bilson and Paul De Meo, Everything or Nothing centers around Bond dealing with the use of nanotechnology as terrorism. It is the second Bond game played in third-person after Tomorrow Never Dies, and is the first Bond game to both feature a two-player cooperative mode and lack deathmatch multiplayer mode. The game features returning actors John Cleese and Judi Dench, as Q and M respectively. Electronic Arts retired this game's servers on or around January 13, 2006.",
+          "imageURL":
+            "https://cashinculture.3dcartstores.com/assets/images/007%20Everything%20or%20Nothing.jpg",
+          "sourceURL": "https://cashinculture.3dcartstores.com/007-Everything-or-Nothing--PS2-Video-Game_p_896.html"
+        },
+        {
+          "title": "From Russia With Love (2005)",
+          "info":"James Bond 007: From Russia with Love is a third-person shooter video game developed by EA Redwood Shores and published by Electronic Arts featuring Ian Fleming's secret agent, James Bond, whose likeness and voice is that of Sean Connery. The game is based on the 1957 novel and the film of the same name.  The game follows the storyline of the book and film, with adding in new scenes to make the game more action-oriented, as well as changing the affiliation of the main villains. Additionally, it features many elements of later Bond films to recreate the feel of the era such as the Aston Martin DB5 that debuted in Goldfinger (1964) and the jet pack from Thunderball (1965). From Russia with Love is also notable in that it is the first video game to use Sean Connery's younger likeness as James Bond and the first to include all new voice work by the actor after twenty-two years away from the role.  From Russia with Love is the last James Bond video game by Electronic Arts marketed before they lost the rights to Activision in 2006. It is the second-to-last video game released by MGM Interactive and the last James Bond video game until the release of 007: Quantum of Solace in 2008.",
+          "imageURL":
+            "https://images-na.ssl-images-amazon.com/images/I/811L9r%2BwtgL._SL1500_.jpg",
+          "sourceURL": "https://www.amazon.co.uk/James-Bond-Russia-Love-PS2/dp/B0009RWHTQ"
+        }
+      ]
+    }
+  }
