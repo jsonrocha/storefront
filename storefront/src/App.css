@@ -13,6 +13,16 @@
   margin-bottom: 280px;
 }
 
+.pic {
+  margin-top: 120px;
+}
+
+.banner {
+  margin-top: 0px;
+  font-family: 'Press Start 2P';
+  font-size: 18px;
+}
+
 .right {
   display: inline;
   float: right;
@@ -73,7 +83,7 @@ p {
 }
 
 h3 {
-  color: green;
+  color: #fcec03;
   margin-top: 10px;
   margin-bottom: 80px;
 }
