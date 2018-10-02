@@ -4,7 +4,7 @@ import React, { Component } from 'react';
   render() {
         return (
             <div>
-            <h1>Callback</h1>
+            <h1>Loading...</h1>
             </div>
           );
       }
