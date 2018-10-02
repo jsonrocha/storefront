@@ -1,10 +1,9 @@
 import React, { Component } from 'react';
 import './App.css';
-import CategoryList from './Component/CategoryList';
-import {BrowserRouter as Router, Switch, Route} from 'react-router-dom'
-import GameList from './Component/GameList';
-import AllGames from './Component/AllGames';
-import GameDetail from './Component/GameDetail'
+import Home from './Component/Home';
+import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
+import Callback from './Component/Callback';
+import Dashboard from './Component/Dashboard'
 
 class App extends Component {
   render() {
@@ -12,14 +11,15 @@ class App extends Component {
       <Router> 
       <div className="App">
         <header className="App-header">
-        <img className="pic" src="https://i.scdn.co/image/49f64d0079acea59cd65a49688f7cfba673714d1"></img>
-        <h3 className="banner">Specializing in PlayStation 2 Games From the Early 2000's</h3>
+        <h1>Home</h1>
         </header>
         <Switch>
-          <Route path="/" exact component={CategoryList}/>
-          <Route path="/:category" exact component={GameList}/>
-          <Route path="/:category/:index" exact component={GameDetail}/>
-          <Route path="/:index" exact component ={AllGames}/>
+          <Route path="/" exact component={Home}/>
+          <Route path="/:callback" render ={(props) => {
+            handleAuthentication(props);
+            return <Callback {...props} />
+          }}/>
+          <Route path="/:dashboard" exact component={Dashboard}/>
         </Switch>
       </div>
       </Router>
